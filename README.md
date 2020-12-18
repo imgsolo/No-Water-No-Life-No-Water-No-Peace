@@ -1,5 +1,5 @@
 # No-Water-No-Life-No-Water-No-Peace
-Help to create a User-Interface connected to a relational database enabling people all over the world to analyse water samples. 
+Help to create a User-Interface connected to a Relational Database enabling People all over the World to analyse Water Samples. 
 
 Tasks: 
 - Creating a Relational Database using Python (sql)
